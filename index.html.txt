@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Our Restaurant</title>
+</head>
+<body>
+  <header>
+    <h1>Our Restaurant</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#menu">Menu</a></li>
+      <li><a href="#location">Location</a></li>
+      <li><a href="#contact">Contact Us</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>Welcome to Our Restaurant! We are a family-owned and operated business located in the heart of downtown. Our menu features a variety of dishes made with the freshest ingredients, and we also offer daily specials. We hope you enjoy your dining experience with us!</p>
+    </section>
+    <section id="menu">
+      <h2>Menu</h2>
+      <h3>Appetizers</h3>
+      <ul>
+        <li>Mozzarella Sticks</li>
+        <li>Buffalo Wings</li>
+        <li>Loaded Nachos</li>
+      </ul>
+      <h3>Entrees</h3>
+      <ul>
+        <li>Spaghetti Bolognese</li>
+        <li>Grilled Salmon</li>
+        <li>BBQ Ribs</li>
+      </ul>
+      <h3>Desserts</h3>
+      <ul>
+        <li>Cheesecake</li>
+        <li>Chocolate Cake</li>
+        <li>Ice Cream Sundae</li>
+      </ul>
+    </section>
+    <section id="location">
+      <h2>Location</h2>
+      <p>We are located at 123 Main Street in downtown. There is ample parking available in the lot behind the restaurant.</p>
+    </section>
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Phone: 555-555-5555</p>
+      <p>Email: info@ourrestaurant.com</p>
+      <p>Address: 123 Main Street, Anytown USA</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright 2021 Our Restaurant</p>
+  </footer>
+</body>
+</html>
