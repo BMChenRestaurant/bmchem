@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Roboto, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -24,13 +24,13 @@ ul {
 li {
   float: left;
 }
-a {
+a.navbar {
   color: #333;
   display: block;
   padding: 20px;
   text-decoration: none;
 }
-a:hover {
+a.navbar:hover {
   background-color: #ddd;
 }
 main {
@@ -44,7 +44,7 @@ h3 {
 }
 footer {
   background-color: #333;
-  color: white;
+  color: red;
   padding: 20px;
   text-align: center;
 }
