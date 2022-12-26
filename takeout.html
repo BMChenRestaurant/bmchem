@@ -12,8 +12,8 @@
 			}
 		});*/
 		let soup = 0;
-		let appetizer = 7;
-		let salad = 13;
+		let appetizer = soup + 7;
+		let salad = appetizer + 13;
         Papa.parse("takeout.csv", {
           header: true,
           download: true,
@@ -24,7 +24,7 @@
               var listItem = document.createElement("dd");
 			  var sepItem = document.createElement("dt");
 			  if(i == soup) {
-				sepItem.innerHTML = "\t\tSoups";
+				sepItem.innerHTML = "&emsp;Soups";
 				menuList.appendChild(sepItem);
 			  } else if(i == appetizer) {
 				sepItem.innerHTML = "Appetizers";
