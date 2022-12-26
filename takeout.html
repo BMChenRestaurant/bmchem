@@ -11,9 +11,9 @@
 				console.log(results);
 			}
 		});*/
-		let soup = 7;
-		let appetizer = 13;
-		let salad = 4;
+		let soup = 0;
+		let appetizer = 7;
+		let salad = 13;
         Papa.parse("takeout.csv", {
           header: true,
           download: true,
@@ -21,11 +21,13 @@
             var menuList = document.getElementById("menu-list");
             for (var i = 0; i < results.data.length; i++) {
               var menuItem = results.data[i];
-              var listItem = document.createElement("li");
-              listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
+              var listItem = document.createElement("dd");
+			  var sepItem = document.createElement("dt");
 			  if(i == soup) {
-				listItem.innerHTML = "</ul><br><ul id="menu-list">";
+				sepItem.innerHTML = "break";
+				menuList.appendChild(sepItem);
 			  }
+              listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
 			  menuList.appendChild(listItem);
             }
           }
@@ -35,7 +37,7 @@
   </head>
   <body onload="parseMenu()">
     <h1>Menu</h1>
-    <ul id="menu-list">
-    </ul>
+    <dl id="menu-list">
+    </dl>
   </body>
 </html>
