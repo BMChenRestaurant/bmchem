@@ -23,7 +23,7 @@
               var menuItem = results.data[i];
               var listItem = document.createElement("li");
               listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
-			  if(i > soup) {
+			  if(i == soup) {
 				menuList.innerHTML("<br>");
 			  }
               menuList.appendChild(listItem);
