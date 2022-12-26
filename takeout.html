@@ -11,7 +11,10 @@
 				console.log(results);
 			}
 		});*/
-        Papa.parse("test.csv", {
+		let soup = 7;
+		let appetizer = 13;
+		let salad = 4;
+        Papa.parse("takeout.csv", {
           header: true,
           download: true,
           complete: function(results) {
@@ -20,6 +23,9 @@
               var menuItem = results.data[i];
               var listItem = document.createElement("li");
               listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
+			  if(i > soup) {
+				document.write("<br>");
+			  }
               menuList.appendChild(listItem);
             }
           }
