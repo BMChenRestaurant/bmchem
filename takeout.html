@@ -24,7 +24,7 @@
               var listItem = document.createElement("li");
               listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
 			  if(i == soup) {
-				menuList.innerHTML("</ul><br><ul id="menu-list">");
+				menuList.innerHTML("<li></li>");
 			  }
               menuList.appendChild(listItem);
             }
