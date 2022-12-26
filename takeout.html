@@ -24,7 +24,13 @@
               var listItem = document.createElement("dd");
 			  var sepItem = document.createElement("dt");
 			  if(i == soup) {
-				sepItem.innerHTML = "break";
+				sepItem.innerHTML = "\t\tSoups";
+				menuList.appendChild(sepItem);
+			  } else if(i == appetizer) {
+				sepItem.innerHTML = "Appetizers";
+				menuList.appendChild(sepItem);			  
+			  } else if(i == salad) {
+				sepItem.innerHTML = "Salads";
 				menuList.appendChild(sepItem);
 			  }
               listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
