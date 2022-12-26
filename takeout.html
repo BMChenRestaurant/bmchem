@@ -24,13 +24,13 @@
               var listItem = document.createElement("dd");
 			  var sepItem = document.createElement("dt");
 			  if(i == soup) {
-				sepItem.innerHTML = "<p style="text-align:center"> Soups<br></p>";
+				sepItem.innerHTML = "<p>Soups<br></p>";
 				menuList.appendChild(sepItem);
 			  } else if(i == appetizer) {
 				sepItem.innerHTML = "<p>&emsp;&emsp;&emsp;Appetizers<br></p>";
 				menuList.appendChild(sepItem);			  
 			  } else if(i == salad) {
-				sepItem.innerHTML = "<p style="tab-size: 16">Salads<br></p>";
+				sepItem.innerHTML = "<p>Salads<br></p>";
 				menuList.appendChild(sepItem);
 			  }
               listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
