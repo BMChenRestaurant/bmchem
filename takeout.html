@@ -19,7 +19,6 @@
             for (var i = 0; i < results.data.length; i++) {
               var menuItem = results.data[i];
               var listItem = document.createElement("li");
-			  console.log(menuItem);
               listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
               menuList.appendChild(listItem);
             }
