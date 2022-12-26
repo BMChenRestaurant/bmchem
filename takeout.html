@@ -24,10 +24,9 @@
               var listItem = document.createElement("li");
               listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
 			  if(i == soup) {
-				listItem.innerHTML = " ";
-			  } else {
-				menuList.appendChild(listItem);
+				listItem.innerHTML = "</ul><br><ul id="menu-list">";
 			  }
+			  menuList.appendChild(listItem);
             }
           }
         });
