@@ -15,6 +15,7 @@
 		let soup = 0;
 		let appetizer = soup + 7;
 		let salad = appetizer + 13;
+		let specials = salad + 4;
         Papa.parse("takeout.csv", {
           header: true,
           download: true,
@@ -33,7 +34,10 @@
 			  } else if(i == salad) {
 				sepItem.innerHTML = "<p>Salads<br></p>";
 				menuList.appendChild(sepItem);
-			  }
+			  } else if(i == specials) {
+				sepItem.innerHTML = "<p>Specials<br></p>";
+				menuList.appendChild(sepItem);
+			}				
 			  if(menuItem.price == "na") {
 				listItem.innerHTML = menuItem.item;
 			  } else {
