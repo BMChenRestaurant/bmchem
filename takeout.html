@@ -34,7 +34,11 @@
 				sepItem.innerHTML = "<p>Salads<br></p>";
 				menuList.appendChild(sepItem);
 			  }
-              listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
+			  if(menuItem.price == "na") {
+				listItem.innerHTML = menuItem.item;
+			  } else {
+				listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
+			  }
 			  menuList.appendChild(listItem);
             }
           }
