@@ -51,3 +51,7 @@ footer {
 dt {
   text-align:center;
 }
+
+dl {
+  margin: 0 0 20px;
+}
