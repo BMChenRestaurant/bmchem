@@ -41,7 +41,7 @@
 			  if(menuItem.price == "na") {
 				listItem.innerHTML = menuItem.item;
 			  } else {
-				listItem.innerHTML = menuItem.item + " - $" + menuItem.price;
+				listItem.innerHTML = "<strong>" + menuItem.item + " - $" + menuItem.price + "</strong>";
 			  }
 			  menuList.appendChild(listItem);
             }
