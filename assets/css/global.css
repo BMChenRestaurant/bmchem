@@ -35,7 +35,7 @@ a.navbar:hover {
 }
 p.listing {
   margin-top: 0px;
-  margin-top: 16px;
+  margin-top: 0px;
 }
 main {
   margin: 20px;
@@ -55,7 +55,16 @@ footer {
 dt {
   text-align:center;
 }
-
 dl {
   margin: 0 5px 0;
+}
+.column {
+  float: left;
+  width: 33.33%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
