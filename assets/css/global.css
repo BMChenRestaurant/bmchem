@@ -33,6 +33,9 @@ a.navbar {
 a.navbar:hover {
   background-color: #ddd;
 }
+p.listing {
+  margin: 0 0 5px;
+}
 main {
   margin: 20px;
 }
