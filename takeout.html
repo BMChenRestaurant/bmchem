@@ -39,9 +39,9 @@
 				menuList.appendChild(sepItem);
 			}				
 			  if(menuItem.price == "na") {
-				listItem.innerHTML = "<p class=\"listing\">" + menuItem.item + "<br></p>";
+				listItem.innerHTML = "<p>" + menuItem.item + "<br></p>";
 			  } else {
-				listItem.innerHTML = "<strong>" + menuItem.item + " - $" + menuItem.price + "</strong>";
+				listItem.innerHTML = "<p class=\"listing\"><strong>" + menuItem.item + " - $" + menuItem.price + "</strong></p>";
 			  }
 			  menuList.appendChild(listItem);
             }
