@@ -35,10 +35,11 @@ a.navbar:hover {
 }
 p.listing {
   margin-top: 0px;
+  text-align: center;
 }
 
 p.info {
-  text-align: center
+  text-align: center;
 }
 
 main {
