@@ -24,13 +24,13 @@
 			  var sepItem = document.createElement("dt");
 		
 			  if(menuItem.price == "na") {
-				listItem.innerHTML = "<p class=\"listing\">" + menuItem.item + "</p>";
+				listItem.innerHTML = "<p class=\"listing\">" + menuItem.item + "<br></p>";
 			  } else if(menuItem.price == "header") {
 				sepItem.innerHTML = "<p>" + menuItem.item + "<br></p>";
 				menuList.appendChild(sepItem);
 				continue;
 			  } else {
-				listItem.innerHTML = "<p class=\"listing\"><strong>" + menuItem.item + " - $" + menuItem.price + "</strong></p>";
+				listItem.innerHTML = "<p style="text-align: center"><strong>" + menuItem.item + " - $" + menuItem.price + "</strong></p>";
 			  }
 			  menuList.appendChild(listItem);
             }
