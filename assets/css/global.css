@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 header {
-  background-color: #333;
+  background-color: #c70000;
   color: white;
   padding: 20px;
   text-align: center;
@@ -36,6 +36,11 @@ a.navbar:hover {
 p.listing {
   margin-top: 0px;
 }
+
+p.info {
+  text-align: center
+}
+
 main {
   margin: 20px;
 }
@@ -60,6 +65,14 @@ dl {
 .column {
   float: left;
   width: 33.33%;
+}
+iframe {
+	margin: 0 auto;
+	display:block;
+}
+
+.column .indexpage {
+  width: 100%;
 }
 /* Clear floats after the columns */
 .row:after {
