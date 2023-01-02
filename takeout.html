@@ -11,8 +11,9 @@
           header: true,
           download: true,
           complete: function(results) {
-            var menuList = document.getElementById("menu-list");
+            var menuList = document.getElementById("menu-list-0");
             for (var i = 0; i < results.data.length; i++) {
+			  menuList = document.getElementById("menu-list-1");
               var menuItem = results.data[i];
               var listItem = document.createElement("dl");
 			  var sepItem = document.createElement("dt");
@@ -49,17 +50,17 @@
     <h1>Menu</h1>
 	<div class="row">
       <div class="column">
-		<dl id="menu-list">
+		<dl id="menu-list-0">
 		</dl>
       </div>
       <div class="column">
         <h2>Column 2</h2>
-		<dl id="menu-list">
+		<dl id="menu-list-1">
 		</dl>
       </div>
       <div class="column">
         <h2>Column 3</h2>
-		<dl id="menu-list">
+		<dl id="menu-list-2">
 		</dl>
       </div>
     </div>
