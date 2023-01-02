@@ -5,13 +5,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
     <script>
       function parseMenu() {
-	   Papa.parse("test.csv", {
-			download: true,
-			header: true,
-			complete: function(results) {
-				console.log(results);
-			}
-		});
 		const sections = [0, 7, 20, 24]
         Papa.parse("takeout.csv", {
           header: true,
@@ -24,9 +17,9 @@
 			  var sepItem = document.createElement("dt");
 		
 			  if(menuItem.price == "na") {
-				listItem.innerHTML = "<p class=\"listing\">" + menuItem.item + "<br></p>";
+				listItem.innerHTML = "<p class=\"listing\">" + menuItem.item + "\r\n</p>";
 			  } else if(menuItem.price == "header") {
-				sepItem.innerHTML = "<p>" + menuItem.item + "<br></p>";
+				sepItem.innerHTML = "<p>" + menuItem.item + "</p>";
 				menuList.appendChild(sepItem);
 				continue;
 			  } else {
