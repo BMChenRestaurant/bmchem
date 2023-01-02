@@ -17,7 +17,7 @@
               var listItem = document.createElement("dl");
 			  var sepItem = document.createElement("dt");
 			  if(menuItem.price == "na") {
-			    dl.className = "desc";
+			    listItem.className = "desc";
 				listItem.innerHTML = "<p class=\"listing\">" + menuItem.item + "</p>";
 			  } else if(menuItem.price == "header") {
 				sepItem.innerHTML = "<p>" + menuItem.item + "</p>";
