@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<! -- debug 1 -->
+<! -- debug 1.1 -->
 <html>
   <head>
     <link rel="stylesheet" href="assets/css/global.css">
@@ -16,8 +16,8 @@
               var menuItem = results.data[i];
               var listItem = document.createElement("dl");
 			  var sepItem = document.createElement("dt");
-		
 			  if(menuItem.price == "na") {
+			    dl.className = "desc";
 				listItem.innerHTML = "<p class=\"listing\">" + menuItem.item + "</p>";
 			  } else if(menuItem.price == "header") {
 				sepItem.innerHTML = "<p>" + menuItem.item + "</p>";
