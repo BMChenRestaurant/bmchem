@@ -3,8 +3,9 @@
 <html>
   <head>
     <link rel="stylesheet" href="assets/css/global.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js">
-      function parseMenu() {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
+    <script>
+		function parseMenu() {
 		const sections = [0, 7, 20, 24]
         Papa.parse("takeout.csv", {
           header: true,
@@ -35,8 +36,8 @@
   <body onload="parseMenu()">
     <header>
 		<a style="text-decoration: none; color: #ffffff;" href="index.html">
-		  <h1>BM Chen</h1>
 		  <h2>Chinese & American Restaurant</h2>
+		  <h1>BM Chen</h1>
 		</a>
 	</header>
 	<nav>
