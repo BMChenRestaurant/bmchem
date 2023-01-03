@@ -16,7 +16,7 @@
               var menuItem = results.data[i];
               var listItem = document.createElement("dl");
 			  var sepItem = document.createElement("dt");
-			  if(menuItem.price == "na") {
+			  if(menuItem.price == "description") {
 			    listItem.className = "desc";
 				listItem.innerHTML = "<p class=\"listing\">" + menuItem.item + "</p>";
 			  } else if(menuItem.price == "header") {
