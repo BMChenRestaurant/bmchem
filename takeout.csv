@@ -1,6 +1,6 @@
 item,price
 Soup,header
-,
+,description
 Egg Drop Soup (Small),2.25
 Egg Drop Soup (Large),3.25
 Chicken Noodle Soup (Small),2.25
@@ -9,7 +9,7 @@ Wonton Soup (Small),2.25
 Wonton Soup (Large),3.95
 Hot & Sour Soup (for 2-3),6.95
 Appetizer,header
-,
+,description
 Egg Roll (1),1.55
 Vegetable Spring Roll (1),1.55
 Shrimp Spring Roll (1),1.75
@@ -156,7 +156,7 @@ Shrimp Fried Rice (Quart),8.95
 "Imperial Fried Rice(Ham, Chicken, BBQ Pork, and Shrimp) (Pint)",5.75
 "Imperial Fried Rice(Ham, Chicken, BBQ Pork, and Shrimp) (Quart)",8.95
 Chop Suey or Chow Mein,header
-,
+,description
 Chicken (Pint),4.95
 Chicken (Quart),8.55
 Beef (Pint),4.95
