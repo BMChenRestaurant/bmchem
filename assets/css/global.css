@@ -77,15 +77,15 @@ dl.desc {
 
 .column {
   float: left;
-  width: 25%;
+  width: 33.33%;
 }
 iframe {
 	margin: 0 auto;
 	display:block;
 }
 
-.column .indexpage {
-  width: 100%;
+.column.indexpage {
+  width: 33.33%;
 }
 /* Clear floats after the columns */
 .row:after {
