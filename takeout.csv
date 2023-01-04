@@ -22,11 +22,13 @@ Jumbo Tempura Shrimp (5),6.55
 BBQ Ribs (Small),6.95
 BBQ Ribs (Large),9.95
 Salad,header
+Dressing: French or Ranch,description
 Tossed Salad,2.75
 Grilled Beef Salad,7.55
 Grilled Chicken Salad,6.55
 Shrimp Salad,6.55
-Specials,header
+Chef's Specials,header
+All dinners served with rice and fortune cookie,description
 Seafood Treasure (Clay Pot),15.95
 "Fresh scallops, shrimp, mussels, and squid simmer with aromatic black mushrooms, and bok choy over a spread of clean bean noodles.",description
 Lamb with Basil🌶️,14.95
@@ -58,6 +60,7 @@ Pork Chop with Chili and Spiced Salt🌶️,11.95
 General Tso Chicken🌶️,10.95
 "Lightly deep-fried chicken sauteed with green peppers, pineapples, and onions in chef's General sauce.",description
 Seafood,header
+Served with white rice,description
 Brocolli Shrimp,10.95
 Garlic Shrimp,10.95
 Chow San Sine (Happy Family),11.55
@@ -72,6 +75,7 @@ Kin Pao San Yan (Three Delicates),11.95
 Sweet & Sour Fish,12.95
 Hong Sue Fish (Friend Fish with Chef's Hong Sue Sauce),13.95
 Poultry,header
+Served with white rice,description
 Moo Goo Gai Pan,9.25
 Almond Boneless Chicken,9.25
 Sweet & Sour Chicken,9.25
@@ -90,6 +94,7 @@ Walnut Chicken,11.95
 Sesame Chicken,10.95
 Orange Chicken🌶️,10.95
 Pork,header
+Served with white rice,description
 Princess Pork,9.25
 Mongolian Pork,9.25
 Sweet & Sour Pork,9.25
@@ -99,6 +104,7 @@ Mu Shu Pork,9.25
 Black Bean Pork,9.55
 Peking Pork,11.95
 Beef,header
+Served with white rice,description
 Pepper Steak,9.55
 Beef Vegetable Deluxe,9.55
 Brocolli Beef,9.55
@@ -113,6 +119,7 @@ Crispy Beef,11.95
 Broad Bean Flavored Beef🌶️,12.95
 Beef with Black Pepper Sauce🌶️,12.95
 Vegetable or Tofu,header
+Served with white rice,description
 Country Style Tofu,11.95
 General Tso's Tofu🌶️,11.95
 Ma Po Tofu🌶️,11.95
@@ -123,6 +130,7 @@ Sweet & Sour Tofu,9.55
 Hot & Sour Eggplant🌶️,11.55
 Hot & Sour Tofu🌶️,11.55
 Egg Foo Young,header
+Served with white rice,description
 Ham Egg Foo Young,8.55
 B.B.Q. Pork Egg Foo Young,8.55
 Beef Egg Foo Young,8.55
@@ -131,3 +139,43 @@ Vegetable Egg Foo Young,8.55
 Shrimp Egg Foo Young,9.25
 "Imperial Egg Foo Young(Ham, Chicken, Beef, BBQ Pork, and Shrimp)",9.25
 Fried Rice,header
+Ham Fried Rice (Pint),4.55
+Ham Fried Rice (Quart),8.25
+Chicken Fried Rice (Pint),4.55
+Chicken Fried Rice (Quart),8.25
+Beef Fried Rice (Pint),4.55
+Beef Fried Rice (Quart),8.25
+BBQ Pork Fried Rice (Pint),4.55
+BBQ Pork Fried Rice (Quart),8.25
+Vegetable Fried Rice (Pint),4.55
+Vegetable Fried Rice (Quart),8.25
+Shrimp Fried Rice (Pint),5.75
+Shrimp Fried Rice (Quart),8.95
+"Imperial Fried Rice(Ham, Chicken, BBQ Pork, and Shrimp) (Pint)",5.75
+"Imperial Fried Rice(Ham, Chicken, BBQ Pork, and Shrimp) (Quart)",8.95
+Chop Suey or Chow Mein,header
+Chicken (Pint),4.95
+Chicken (Quart),8.55
+Beef (Pint),4.95
+Beef (Quart),8.55
+Pork (Pint),4.95
+Pork (Quart),8.55
+Vegetable (Pint),4.95
+Vegetable (Quart),8.55
+Shrimp (Pint),5.95
+Shrimp (Quart),10.95
+Chicken Subgum (Pint),5.95
+Chicken Subgum (Quart),9.25
+Shrimp Subgum (Pint),7.25
+Shrimp Subgum (Quart),10.95
+Fried Noodles,header
+(Stir-Fried or Pan Fried),description
+Chicken,9.95
+Beef,9.95
+Pork,9.95
+Vegetable,9.95
+Shrimp,10.95
+Mixed Seafood,14.95
+Singapore Fried Noodle🌶️,10.55
+Beef with Long Rice Noodles,10.55
+Mixed Meat,11.55
