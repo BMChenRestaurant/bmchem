@@ -11,8 +11,12 @@
           header: true,
           download: true,
           complete: function(results) {
-            var menuList = document.getElementById("menu-list-0");
+		    var curCol = 0;
             for (var i = 0; i < results.data.length; i++) {
+			  var menuList = document.getElementById("menu-list-" + curCol);
+			  if(menuItem.price == "header" && (menuItem.item == "Seafood") {
+			    curCol++;
+			  }
               var menuItem = results.data[i];
               var listItem = document.createElement("dl");
 			  var sepItem = document.createElement("dt");
