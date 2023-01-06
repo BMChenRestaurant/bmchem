@@ -7,7 +7,7 @@
     <script>
 		function parseMenu() {
 		const sections = [0, 7, 20, 24]
-        Papa.parse("takeout.csv", {
+        Papa.parse("authentic.csv", {
           header: true,
           download: true,
           complete: function(results) {
@@ -48,7 +48,7 @@
       <ul>
 	    <li><a class="navbar" href="index.html">Home</a></li>
         <li><a class="navbar" href="takeout.html">Takeout Menu</a></li>
-	    <li><a class="navbar" href="authentic.html">Authentic Menu</a></li>
+		<li><a class="navbar" href="authentic.html">Authentic Menu</a></li>
       </ul>
     </nav>
 	<div class="row">
@@ -69,7 +69,6 @@
 		</dl>
       </div>
     </div>
-	<h2 style="text-align: center"><a href="authentic.html" target="_blank">Click for for the Authentic Chinese Menu</a></p>
   <footer>
     <p>&copy; BM Chen Restaurant 2023</p>
 	<p>1227 S Reynolds Rd, Toledo, OH 43615  419-214-0018</p>
