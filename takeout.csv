@@ -210,10 +210,8 @@ Drinks & Dessert,header
 ,description
 Hot(Oolong),0.80
 Coffee or Iced Tea,0.95
-Gravy (Pint),2.00
-Gravy (Quart),3.95
+Gravy,(Pint) 2.00 &nbsp;&nbsp;&nbsp; (Quart) 3.95
 Fortune Cookie,0.15
 French Fries,1.80
 Mashed Potato,1.80
-Plain Rice (Pint),1.50
-Plain Rice (Quart),2.55
+Plain Rice,(Pint) 1.50 &nbsp;&nbsp;&nbsp; (Quart) 2.55
