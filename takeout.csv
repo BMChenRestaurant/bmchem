@@ -34,10 +34,8 @@ General Tso Chicken🌶️,10.95
 Soup,header
 ,description
 Egg Drop Soup,(Small) 2.25 &nbsp;&nbsp;&nbsp; (Large) 3.25
-Chicken Noodle Soup (Small),2.25
-Chicken Noodle Soup (Large),3.55
-Wonton Soup (Small),2.25
-Wonton Soup (Large),3.95
+Chicken Noodle Soup,(Small) 2.25 &nbsp;&nbsp;&nbsp; (Large) 3.55
+Wonton Soup,(Small) 2.25 &nbsp;&nbsp;&nbsp; (Large) 3.95
 Hot & Sour Soup (for 2-3),6.95
 Appetizer,header
 ,description
@@ -52,8 +50,7 @@ Chicken or Beef Kebob (2),5.55
 Jumbo Fried Shrimp (5),6.55
 Fried Chicken Wings (10),7.55
 Jumbo Tempura Shrimp (5),6.55
-BBQ Ribs (Small),6.95
-BBQ Ribs (Large),9.95
+BBQ Ribs, (Small) 6.95 &nbsp;&nbsp;&nbsp; (Large) 9.95
 Salad,header
 Dressing: French or Ranch,description
 Tossed Salad,2.75
@@ -141,36 +138,22 @@ Shrimp Egg Foo Young,9.25
 "Imperial Egg Foo Young(Ham, Chicken, Beef, BBQ Pork, and Shrimp)",9.25
 Fried Rice,header
 ,description
-Ham Fried Rice (Pint),4.55
-Ham Fried Rice (Quart),8.25
-Chicken Fried Rice (Pint),4.55
-Chicken Fried Rice (Quart),8.25
-Beef Fried Rice (Pint),4.55
-Beef Fried Rice (Quart),8.25
-BBQ Pork Fried Rice (Pint),4.55
-BBQ Pork Fried Rice (Quart),8.25
-Vegetable Fried Rice (Pint),4.55
-Vegetable Fried Rice (Quart),8.25
-Shrimp Fried Rice (Pint),5.75
-Shrimp Fried Rice (Quart),8.95
-"Imperial Fried Rice(Ham, Chicken, BBQ Pork, and Shrimp) (Pint)",5.75
-"Imperial Fried Rice(Ham, Chicken, BBQ Pork, and Shrimp) (Quart)",8.95
+Ham Fried Rice,(Pint) 4.55 &nbsp;&nbsp;&nbsp; (Quart) 8.25
+Chicken Fried Rice,(Pint) 4.55 &nbsp;&nbsp;&nbsp; (Quart) 8.25
+Beef Fried Rice,(Pint) 4.55 &nbsp;&nbsp;&nbsp; (Quart) 8.25
+BBQ Pork Fried Rice,(Pint) 4.55 &nbsp;&nbsp;&nbsp; (Quart) 8.25
+Vegetable Fried Rice,(Pint) 4.55 &nbsp;&nbsp;&nbsp; (Quart) 8.25
+Shrimp Fried Rice,(Pint) 5.75 &nbsp;&nbsp;&nbsp; (Quart) 8.95
+"Imperial Fried Rice(Ham, Chicken, BBQ Pork, and Shrimp)",(Pint) 5.75 &nbsp;&nbsp;&nbsp; (Quart) 8.95
 Chop Suey or Chow Mein,header
 ,description
-Chicken (Pint),4.95
-Chicken (Quart),8.55
-Beef (Pint),4.95
-Beef (Quart),8.55
-Pork (Pint),4.95
-Pork (Quart),8.55
-Vegetable (Pint),4.95
-Vegetable (Quart),8.55
-Shrimp (Pint),5.95
-Shrimp (Quart),10.95
-Chicken Subgum (Pint),5.95
-Chicken Subgum (Quart),9.25
-Shrimp Subgum (Pint),7.25
-Shrimp Subgum (Quart),10.95
+Chicken,(Pint) 4.95 &nbsp;&nbsp;&nbsp; (Quart) 8.55
+Beef,(Pint) 4.95 &nbsp;&nbsp;&nbsp; (Quart) 8.55
+Pork,(Pint) 4.95 &nbsp;&nbsp;&nbsp; (Quart) 8.55
+Vegetable,(Pint) 4.95 &nbsp;&nbsp;&nbsp; (Quart) 8.55
+Shrimp,(Pint) 5.95 &nbsp;&nbsp;&nbsp; (Quart) 10.95
+Chicken Subgum,(Pint) 5.95 &nbsp;&nbsp;&nbsp; (Quart) 9.25
+Shrimp Subgum,(Pint) 7.25 &nbsp;&nbsp;&nbsp; (Quart) 10.95
 Fried Noodles,header
 (Stir-Fried or Pan Fried),description
 Chicken,9.95
