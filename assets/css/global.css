@@ -38,12 +38,10 @@ p.listing {
   margin: 5px 5px;
   text-align: center;
 }
-
 p.info {
   text-align: center;
   font-size: 1.25vw;
 }
-
 main {
   margin: 20px;
 }
@@ -58,7 +56,6 @@ h3.header {
   margin: 20px 0px 0px;
   text-align: center;
 }
-
 footer {
   background-color: #333;
   color: red;
@@ -71,11 +68,9 @@ dt {
 dl {
   margin: 0px 5px 0px;
 }
-
 dl.desc {
   margin: 0px 5px 10px;
 }
-
 .column {
   float: left;
   width: 33.33%;
@@ -104,4 +99,8 @@ iframe {
   left: 0;
   bottom: 0;
   right: 0;
+}
+html, body {
+  margin: 0;
+  height: 100%;
 }
