@@ -14,7 +14,7 @@
 		    var curCol = 0;
             for (var i = 0; i < results.data.length; i++) {
               var menuItem = results.data[i];
-			  if(menuItem.price == "header" && (menuItem.item == "Seafood" || menuItem.item == "Beef" || menuItem.item == "Luncheon Specials" )) {
+			  if(menuItem.price == "header" && (menuItem.item == "Soup" || menuItem.item == "Beef" || menuItem.item == "Luncheon Specials" )) {
 			    curCol++;
 			  }
 			  var menuList = document.getElementById("menu-list-" + curCol.toString());
