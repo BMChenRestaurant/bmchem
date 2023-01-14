@@ -1,5 +1,5 @@
 function parseMenu() {
-        Papa.parse("dinein.csv", {
+        Papa.parse("takeout.csv", {
           header: true,
           download: true,
           complete: function(results) {
