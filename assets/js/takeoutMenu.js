@@ -1,5 +1,4 @@
 function parseMenu() {
-		const sections = [0, 7, 20, 24]
         Papa.parse("takeout.csv", {
           header: true,
           download: true,
