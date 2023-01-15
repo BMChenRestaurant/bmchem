@@ -6,7 +6,7 @@ function parseMenu() {
 		    var curCol = 0;
             for (var i = 0; i < results.data.length; i++) {
               var menuItem = results.data[i];
-			  if(menuItem.price == "header" && (menuItem.item == "海鲜 Seafood" || menuItem.item == "凉菜 Cold Dish" || menuItem.item == "海鲜类 Seafood")) {
+			  if(menuItem.price == "header" && (menuItem.item == "豆腐/蔬菜 Tofu/Vegetable" || menuItem.item == "海鲜类 Seafood")) {
 			    curCol++;
 			  }
 			  var menuList = document.getElementById("menu-list-" + curCol.toString());

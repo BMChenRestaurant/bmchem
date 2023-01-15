@@ -81,6 +81,9 @@ dl.desc {
 .column.takeoutpage {
   width: 25%;
 }
+.column.dineinpage {
+  width: 33.33%;
+}
 iframe {
 	margin: 0 auto;
 	display:block;
