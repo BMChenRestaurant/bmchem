@@ -23,7 +23,6 @@ function parseMenu() {
 			listItem.innerHTML = "<p class=\"listing\"><strong>" + menuItem.item + " - " + menuItem.price + "</strong></p>";
 			}
 			menuList.appendChild(listItem);
-			console.log(menuItem.item)
 		}
 		}
 	});

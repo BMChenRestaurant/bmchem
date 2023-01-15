@@ -1,14 +1,14 @@
 item,price
 汤 Soup,header
 ,description
-1. 三鲜汤  Mix Meat Seafood with Vegetable Soup,\n(Small) 7.95 &nbsp;&nbsp;&nbsp; (Large) 11.95
-2. 酸辣汤  Hot & Sour Soup,\n(Small) 7.95 &nbsp;&nbsp;&nbsp; (Large) 11.95
-3. 海味紫菜汤 Dried Seaweed with Seafood Soup,\n(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 12.95
-4. 青菜肉丝汤 Shredded Pork with Vegetable Soup,\n(Small) 7.95 &nbsp;&nbsp;&nbsp; (Large) 11.95
-5. 海鲜汤 Seafood Tofu Soup,\n(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 13.95
-5A. 香菜豆腐鱼片汤 Tofu Fish with Cilantro Soup,\n(Small) 9.95 &nbsp;&nbsp;&nbsp; (Large) 14.95
-5B. 西湖牛肉羹 West Lake Beef Soup,\n(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 13.95
-5C. 番茄肉丝汤 Shredded Meat with Tomato Soup,\n(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 12.95
+1. 三鲜汤  Mix Meat Seafood with Vegetable Soup,<br>(Small) 7.95 &nbsp;&nbsp;&nbsp; (Large) 11.95
+2. 酸辣汤  Hot & Sour Soup,<br>(Small) 7.95 &nbsp;&nbsp;&nbsp; (Large) 11.95
+3. 海味紫菜汤 Dried Seaweed with Seafood Soup,<br>(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 12.95
+4. 青菜肉丝汤 Shredded Pork with Vegetable Soup,<br>(Small) 7.95 &nbsp;&nbsp;&nbsp; (Large) 11.95
+5. 海鲜汤 Seafood Tofu Soup,<br>(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 13.95
+5A. 香菜豆腐鱼片汤 Tofu Fish with Cilantro Soup,<br>(Small) 9.95 &nbsp;&nbsp;&nbsp; (Large) 14.95
+5B. 西湖牛肉羹 West Lake Beef Soup,<br>(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 13.95
+5C. 番茄肉丝汤 Shredded Meat with Tomato Soup,<br>(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 12.95
 鸡/鸭 Chicken/Duck,header
 ,description
 6. 冬菇炆鸡 Braised Checken with Black Mushrooms,14.95
