@@ -1,22 +1,16 @@
 item,price
 汤 Soup,header
-1. 三鲜汤  Mix Meat Seafood with Vegetable Soup (Small),7.95
-Mix Meat Seafood with Vegetable Soup (Large),11.95
-2. 酸辣汤  Hot & Sour Soup (Small),7.95
-Hot & Sour Soup (Large),11.95
-3. 海味紫菜汤 Dried Seaweed with Seafood Soup (Small),8.95
-Dried Seaweed with Seafood Soup (Large),12.95
-4. 青菜肉丝汤 Shredded Pork with Vegetable Soup (Small),7.95
-Shredded Pork with Vegetable Soup (Large),11.95
-5. 海鲜汤 Seafood Tofu Soup (Small),8.95, 
-Seafood Tofu Soup (Large),13.95
-5A. 香菜豆腐鱼片汤 Tofu Fish with Cilantro Soup (Small),9.95
-Tofu Fish with Cilantro Soup (Large),14.95
-5B. 西湖牛肉羹 West Lake Beef Soup (Small),8.95
-West Lake Beef Soup (Large),13.95
-5C. 番茄肉丝汤 Shredded Meat with Tomato Soup (Small),8.95
-Shredded Meat with Tomato Soup (Large),12.95
+,description
+1. 三鲜汤  Mix Meat Seafood with Vegetable Soup,(Small) 7.95 &nbsp;&nbsp;&nbsp; (Large) 11.95
+2. 酸辣汤  Hot & Sour Soup, (Small) 7.95 &nbsp;&nbsp;&nbsp; (Large) 11.95
+3. 海味紫菜汤 Dried Seaweed with Seafood Soup,(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 12.95
+4. 青菜肉丝汤 Shredded Pork with Vegetable Soup,(Small) 7.95 &nbsp;&nbsp;&nbsp; (Large) 11.95
+5. 海鲜汤 Seafood Tofu Soup,(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 13.95
+5A. 香菜豆腐鱼片汤 Tofu Fish with Cilantro Soup,(Small) 9.95 &nbsp;&nbsp;&nbsp; (Large) 14.95
+5B. 西湖牛肉羹 West Lake Beef Soup,(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 13.95
+5C. 番茄肉丝汤 Shredded Meat with Tomato Soup,(Small) 8.95 &nbsp;&nbsp;&nbsp; (Large) 12.95
 鸡/鸭 Chicken/Duck,header
+,description
 6. 冬菇炆鸡 Braised Checken with Black Mushrooms,14.95
 7. 四川豆瓣鸡 Chicken with Bean Paste Chili Sauce,14.95
 8. 湖南辣子鸡 Hunan Dry Chili Chicken,14.95
@@ -28,6 +22,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 14. 霸王鸡  Steamed Chicken with Ginger & Onions,15.95
 15. 盐焗沙姜鸡 Steamed Chicken with Salt & Ginger,15.95
 牛/羊 Beef/Lamb,header
+,description
 16. 咖喱牛肉 Curry Beff,15.95
 17. 豉椒牛肉 Beef with Green Pepper in Black Bean Sauce,15.95
 18. 青江菜炒牛肉 Beef with Baby Bok Choy,15.95
@@ -41,6 +36,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 26. 九层塔炒羊肉 Basil Lamb,16.95
 27. 酱爆羊肉 Lamb with Honh Sue Sauce,16.95
 猪 Pork,header
+,description
 28. 蜜汁叉烧 B.B.Q Pork,14.95
 29. 京都肉 Peking Pork,14.95
 30. 干煸肉丝四季豆 Pork with Green Bean,14.95
@@ -50,6 +46,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 34. 无骨猪手 Steamed Pork Elbow,14.95
 35. 四川回锅肉 Szechuan Double Cooked Pork,15.95
 海鲜 Seafood,header
+,description
 36. 红烧鱼 Whole Fish w/ Hong Sue Sauce,Market Price
 37. 豆瓣全鱼 Wholed Fish w/ Broad Bean Paste Sauce,Market Price
 38. 重庆水煮鱼 Chongqing Stayle Fish in Spicy Soup,16.95
@@ -62,6 +59,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 45. 油泡海鲜球 Seafood with Assorted Vegetables,16.95
 46. 美极大虾 Jumbo Shrimp with Onion in Buttery Soy Sauce,16.95
 豆腐/蔬菜 Tofu/Vegetable,header
+,description
 47. 家常豆腐 Country Style Tofu,14.95
 48. 冬菇豆腐 Black Mushroom with Tofu,14.95
 49. 海鲜豆腐 Seafood with Tofu,14.95
@@ -70,6 +68,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 52. 蚝油冬菇 Black Mushroom with Oyster Sauce,14.95
 53. 各式青菜 Chinese Vegetable ( Baby Bok Choy or Choy Sum),12.95
 煲 Clay Pot,header
+,description
 54. 鱼香茄子煲 Eggplant with Pork,14.95
 55. 萝卜牛腩煲 Beef Brisket with Radish,16.95
 56. 八珍豆腐煲 Mixed Seafood with Bean Noodle,16.95
@@ -77,11 +76,13 @@ Shredded Meat with Tomato Soup (Large),12.95
 58. 梅菜扣肉煲 Pork Belly with Preserved Vegetable,18.95
 59. 海鲜一品煲 Mixed Seafood with Bean Noodle,18.95
 汤粉/面（或干捞）Rice Noodle/Noodle Soup,header
+,description
 60. 牛腩粉/面 Beef Brisket with Rice Noodle or Noodle,8.95
 61. 云吞粉/面 Wonton with Rice Noodle or Noodle,8.95
 62. 叉烧粉/面 B.B.Q Pork with Rice Noodle or Noodle,8.95
 63. 海鲜粉/面 Seafood with Rice Noodle or Noodle,9.95
 炒粉/面/饭 Fried Rice Noodle/Noodle/Rice,header
+,description
 64. 干炒牛河 Beef with Flat Rice Noodle,13.95
 65. 湿炒牛河 Beef with Flat Rice Noodle in Chef's Sauce,13.95
 66. 湿炒海鲜河 Assorted Seafood w/Rice Noodle in Chef's Sauce,13.95
@@ -94,6 +95,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 73. 虾仁炒饭 Shrimp Fired Rice,13.95
 74. 海鲜炒面 Fried Noodle with Mixed Seafood,16.95
 凉菜 Cold Dish,header
+,description
 75. 夫妻肺片 Beef & Ox Tripe with Chili Sauce,15.95
 76. 口水鸡 Steamed Chicken with Chili Sauce,16.95
 77. 红油肘子 Pork Joint in Chili Oil,14.95
@@ -106,6 +108,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 84. 麻辣牛肉 Beef with Chili Sauce,15.95
 85. 鸭三样（原味/辣味） Three Delicacies Duck,11.95
 蔬菜/豆腐/鸡/猪 Veggie/Tofu/Chicken/Pork,header
+,description
 86. 上汤青菜 Braised Vegetable in Broth,13.95
 87. 香辣豆腐 Tofu in Spicy Sauce,15.95
 88. 冬菇炒青江菜 Black Muchroom with Baby Bok Choy,14.95
@@ -126,6 +129,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 103. 麻辣猪肚 Pig Tripe with Chili & Pepper,16.95
 104. 干锅猪肚 Griddle Cooked Pig Tripe,16.95
 海鲜类 Seafood,header
+,description
 105.糖醋鱼片 Fried Fish Fillet with Sweet & Sour Sauce,16.95
 106. 咖喱包心鱼丸 Fish Balls with Curry Sauce,16.95
 107. 干锅包心鱼丸 Griddle Cooked Fish Balls,16.95
@@ -159,6 +163,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 135. 黑椒带子 Scallop with Black Pepper Sauce,16.95
 136. 水煮海鲜 Poached Seafood in Spicy Broth,19.95
 牛羊类 Beef/Lamb,header
+,description
 137. 酸菜牛肉 Beef with Preserved Vegetable,15.95
 138. 姜葱牛肉 Veef with Ginger & Scallion,15.95
 139. 脆皮牛肉 Crispy Beef,13.95
@@ -177,6 +182,7 @@ Shredded Meat with Tomato Soup (Large),12.95
 152. 姜葱羊肉 Lamb with Ginger & Scallion,16.95
 153. 水煮羊肉 Poached Sliced Lamb in Chili Broth,16.95
 面类 Noodle,header
+,description
 154. 麻辣牛肉面 Beef woth Noddle in Chili Broth,14.95
 155. 麻辣热干面 Wu Han Spicy Dry Noodle with Sesame Paste,13.95
 156. 红烧牛肉面 Braised Beef with Noddle in Brown Sauce,14.95
