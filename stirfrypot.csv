@@ -1,9 +1,9 @@
 ﻿item,price
-test,test
 麻辣香锅 Spicy Numbing Stir-fry Pot,header
-(锅底免费，任选三种食材以上),description
+(锅底免费，任选三种食材以上),header
 (Choose Three or more ingredients from below),description
 肉类 (Meat),header
+,description
 五花肉 （Pork Belly),7.55
 牛肉 （Beef),8.55
 鸡胗 （Chicken Gizzard),6.95
@@ -15,6 +15,7 @@ test,test
 鸡肉 （Chicken),6.95
 鸭脖 （Duck Neck),6.95
 海鲜 (Seafood),header
+,description
 大虾 （Shrimp）,8.55
 带子 （Scallop),8.55
 蟹柳 （Crab Meat),6.95
@@ -22,6 +23,7 @@ test,test
 包心鱼丸 （Fish Ball),7.55
 墨鱼仔 （Cuttlefish),8.55
 素菜 (Vegetables),header
+,description
 莲藕 （Lotus Root),7.55
 豆腐 （Tofu),6.55
 芹菜 （Celery),4.95
@@ -35,6 +37,7 @@ test,test
 菜花 （Cauliflower),5.55
 土豆 （Potato),5.55
 辣度 (Spice Level),header
+,description
 微辣（Mild)🌶️,description
 少辣（Medium)🌶️🌶️,description
 中辣 （Spicy)🌶️🌶️🌶️,description
