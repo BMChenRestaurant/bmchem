@@ -86,6 +86,7 @@ dl.desc {
 }
 .column.stirfrypage {
   width: 100%;
+  text-align: center;
 }
 iframe {
 	margin: 0 auto;
