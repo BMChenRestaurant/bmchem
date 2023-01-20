@@ -84,6 +84,9 @@ dl.desc {
 .column.dineinpage {
   width: 33.33%;
 }
+.column.stirfrypage {
+  width: 100%;
+}
 iframe {
 	margin: 0 auto;
 	display:block;
